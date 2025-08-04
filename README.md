@@ -14,3 +14,14 @@ O Termux é um aplicativo que simula o terminal shell no seu smartphone, ele pod
 ### Como instalar o Termux?
 
 Para instalar a última versão do Termux no seu smartphone, é recomendado instalar pela plataforma de aplicativos chamada de F-Droid. A versão disponível na loja da Google (Google Play Store) geralmente sçao versão antigas que não possuem o suporte adequado para o Termux:API. Nesse caso, vamos baixar o F-Droid em seu site oficial clicando [aqui](https://f-droid.org/).
+
+1. Instale o apk do aplicativo F-Droid, e abra-o. Você verá um ícone de uma lupa verde, clique nela e abrirá a tela de pesquisa de apps. Digite Termux, selecione e pressione instalar.
+
+[print da tela do f-droid]
+
+2. Após instalar o Termux, é recomendado que inicie pela primeira vez, para que seja aceito as permissões mínimas.
+[print da tela do termux iniciado pela primeira vez]
+
+4. Em seguida, abra o F-Droid novamente, clique na lupa verde, e pesquise: Termux API, e instale também.
+
+[print da tela do termux api]
