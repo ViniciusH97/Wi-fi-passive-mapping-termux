@@ -30,3 +30,13 @@ Para instalar a última versão do Termux no seu smartphone, é recomendado inst
 Desabilite as opções recomendadas e feche.
 
 5. Nesse momento, inicie o Termux e atualize as listas de pacotes com `pkg update`, e atualize os pacotes com `pkg upgrade`.
+
+Agora seu Termux está atualiza e pronto para utilizar as ferramentas necessárias para o mapeamento utilizando as funcionalidade do Android com o Termux:API. Para testar se realmente o Termux:API está instalado e funcionando corretamente, habilite o wifi e a localização do seu smartphone e rode o comando no terminal:
+
+```bash
+termus-location
+```
+
+A saída será algo parecido com isso:
+
+[print da tela com a saída do termux-location]
