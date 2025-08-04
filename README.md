@@ -20,8 +20,13 @@ Para instalar a última versão do Termux no seu smartphone, é recomendado inst
 [print da tela do f-droid]
 
 2. Após instalar o Termux, é recomendado que inicie pela primeira vez, para que seja aceito as permissões mínimas.
+
 [print da tela do termux iniciado pela primeira vez]
 
 4. Em seguida, abra o F-Droid novamente, clique na lupa verde, e pesquise: Termux API, e instale também.
 
 [print da tela do termux api]
+
+Desabilite as opções recomendadas e feche.
+
+5. Nesse momento, inicie o Termux e atualize as listas de pacotes com `pkg update`, e atualize os pacotes com `pkg upgrade`.
