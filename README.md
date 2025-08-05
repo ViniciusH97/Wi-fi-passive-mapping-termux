@@ -33,7 +33,7 @@ Desabilite as opções recomendadas e feche.
 Agora seu Termux está atualiza e pronto para utilizar as ferramentas necessárias para o mapeamento utilizando as funcionalidade do Android com o Termux:API. Para testar se realmente o Termux:API está instalado e funcionando corretamente, habilite o wifi e a localização do seu smartphone e rode o comando no terminal:
 
 ```bash
-termus-location
+termux-location
 ```
 
 A saída será algo parecido com isso:
@@ -48,8 +48,5 @@ termux-wifi-scaninfo
 
 A saída será algo como:
 
-
 ![Termux1](https://github.com/user-attachments/assets/77fe28df-2caf-425e-8561-ebc571c166d2)
-
-
 
