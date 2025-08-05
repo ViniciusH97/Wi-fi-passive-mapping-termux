@@ -4,7 +4,8 @@
 
 Realizar o mapeamento de APs(Access Points) com o uso de ferramenta mobile sem a necessidade de root. 
 
-Antes de começar o mapeamento e ir direto para a ferramentas, precisamos ter o conhecimento prévio do terminal shell, para que possamos manipular arquivos e navegar nas pastas onde serão armazenados os scripts e resultados.
+Antes de iniciar o mapeamento e utilizar as ferramentas, é necessário ter conhecimento prévio do terminal shell, para que possamos manipular arquivos e navegar nas pastas onde serão armazenados os scripts e resultados.
+
 ## Emulador de Terminal para Android
 
 O aplicativo essencial para esse mapeamennto será o Termux.
