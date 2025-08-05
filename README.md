@@ -2,18 +2,17 @@
 
 ## Objetivo
 
-Realizar o mapeamento de APs(Access Points) com o uso de ferramenta mobile sem root. 
+Realizar o mapeamento de APs(Access Points) com o uso de ferramenta mobile sem a necessidade de root. 
 
-Antes de começar o mapeamento e ir direto para a ferramentas, precisamos ter o conhecimento prévio do terminal shell, para que possamos manipular arquivos e navegar nas pastas que vamos armazenar o script e os resultados.
-
+Antes de começar o mapeamento e ir direto para a ferramentas, precisamos ter o conhecimento prévio do terminal shell, para que possamos manipular arquivos e navegar nas pastas onde serão armazenados os scripts e resultados.
 ## Emulador de Terminal para Android
 
 O aplicativo essencial para esse mapeamennto será o Termux.
 
 <img width="100" height="100" alt="4dca8e0edabe9ede" src="https://github.com/user-attachments/assets/7422dde9-5a28-4ac0-b6f3-288f5eeb0f97" />
 
-### O que é o Termux?
-O Termux é um aplicativo que simula o terminal shell no smartphone Android, ele pode ser baixado tanto na PlayStore, porém como vamos utilizar o Termux para realizar um mapeamento de rede utilizando a interface WI-FI e GPS, será necessário realizar o download do Termux:API. O Termux:API é um add-on, ele permite que scripts ou comandos executados no Termux interajam com as funcionalidades do Android, como por exemplo: GPS, câmera, chamadas, SMS, brilho da tela, entre outros. 
+## O que é o Termux?
+O Termux é um aplicativo que simula o terminal shell no smartphone Android, ele pode ser baixado tanto na PlayStore quanto via F-Droid. Porém, como vamos utilizar o Termux para realizar um mapeamento de rede utilizando a interface WI-FI e GPS, será necessário realizar o download do Termux:API. O Termux:API é um add-on, ele permite que scripts ou comandos executados no Termux interajam com as funcionalidades do Android, como por exemplo: GPS, câmera, chamadas, SMS, brilho da tela, entre outros. 
 
 ### Como instalar o Termux?
 
@@ -29,16 +28,23 @@ Para instalar a última versão do Termux no seu smartphone, é recomendado inst
 
 ![IMG_20250804_211503](https://github.com/user-attachments/assets/88f312b5-7f90-4f5d-aece-645057b49a9f)
 
-
 Desabilite as opções recomendadas e feche.
 
-4. Nesse momento, inicie o Termux e atualize as listas de pacotes com `pkg update`, e atualize os pacotes com `pkg upgrade`.
+4. Abra o Termux e instale o pacote Termux:API, digite o comando abaixo:
+
+```bash
+pkg install termux-api
+```
+
+5. Nesse momento, inicie o Termux e atualize as listas de pacotes com `pkg update`, e atualize os pacotes com `pkg upgrade`.
 
 Agora seu Termux está atualiza e pronto para utilizar as ferramentas necessárias para o mapeamento utilizando as funcionalidade do Android com o Termux:API. Para testar se realmente o Termux:API está instalado e funcionando corretamente, habilite o wifi e a localização do seu smartphone e rode o comando no terminal:
 
 ```bash
 termux-location
 ```
+
+> OBS: Não esqueça de habilitar o GPS e o wi-fi do smartphone para realziar os testes
 
 A saída será algo parecido com isso:
 
