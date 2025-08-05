@@ -39,4 +39,18 @@ termus-location
 
 A saída será algo parecido com isso:
 
-[print da tela com a saída do termux-location]
+![Termux2](https://github.com/user-attachments/assets/1c99be24-4ec6-4d16-94e1-daadc960f2d2)
+
+Se aparecer as coordenadas como na imagem acima, significa que o Termux:API funcionou corretamente.E agora poderá testar o comando para escaneamento de APs:
+
+```bash
+termux-wifi-scaninfo
+```
+
+A saída será algo como:
+
+
+![Termux1](https://github.com/user-attachments/assets/77fe28df-2caf-425e-8561-ebc571c166d2)
+
+
+
