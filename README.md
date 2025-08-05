@@ -6,14 +6,14 @@ Realizar o mapeamento de APs(Acess Points) com o uso de ferramenta mobile sem ro
 
 Antes de começar o mapeamento e ir direto para a ferramentas, precisamos ter o conhecimento prévio do terminal shell, para que possamos manipular arquivos e navegar nas pastas que vamos armazenar o script e os resultados.
 
-## Ferramentas
+## Emulador de Terminal para Android
 
 O aplicativo essencial para esse mapeamennto será o Termux.
 
 <img width="100" height="100" alt="4dca8e0edabe9ede" src="https://github.com/user-attachments/assets/7422dde9-5a28-4ac0-b6f3-288f5eeb0f97" />
 
 ### O que é o Termux?
-O Termux é um aplicativo que simula o terminal shell no seu smartphone, ele pode ser baixado tanto na PlayStore quanto na AppleStore. Porém como vamos utilizar o Termux para realizar um mapeamento de rede utilizando a interface WI-FI e GPS, será necessário realizar o download do Termux:API. O Termux:API é um add-on, ele permite que scripts ou comandos executados no Termux interajam com as funcionalidades do Android, como por exemplo: GPS, câmera, chamadas, SMS, brilho da tela, entre outros. 
+O Termux é um aplicativo que simula o terminal shell no smartphone Android, ele pode ser baixado tanto na PlayStore quanto na AppleStore. Porém como vamos utilizar o Termux para realizar um mapeamento de rede utilizando a interface WI-FI e GPS, será necessário realizar o download do Termux:API. O Termux:API é um add-on, ele permite que scripts ou comandos executados no Termux interajam com as funcionalidades do Android, como por exemplo: GPS, câmera, chamadas, SMS, brilho da tela, entre outros. 
 
 ### Como instalar o Termux?
 
