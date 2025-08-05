@@ -2,7 +2,9 @@
 
 ## Objetivo
 
-Realizar o mapeamento de APs utilizando ferramentas sem root. Para comerçarmos o mapeameno e ir direto para a ferramentas, precisamos ter o conhecimento prévio do terminal shell, para que possamos manipular arquivos e navegar nas pastas que vamos armazenar o script e os resultados dos mapeamentos.
+Realizar o mapeamento de APs(Acess Points) com o uso de ferramenta mobile sem root. 
+
+Antes de começar o mapeamento e ir direto para a ferramentas, precisamos ter o conhecimento prévio do terminal shell, para que possamos manipular arquivos e navegar nas pastas que vamos armazenar o script e os resultados.
 
 ## Ferramentas
 
