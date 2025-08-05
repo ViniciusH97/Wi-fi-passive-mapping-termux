@@ -17,19 +17,18 @@ Para instalar a última versão do Termux no seu smartphone, é recomendado inst
 
 1. Instale o apk do aplicativo F-Droid, e abra-o. Você verá um ícone de uma lupa verde, clique nela e abrirá a tela de pesquisa de apps. Digite Termux, selecione e pressione instalar.
 
-[print da tela do f-droid]
+![IMG_20250804_210157](https://github.com/user-attachments/assets/88db82f6-07f2-4d6e-b668-b82109826e48)
 
 2. Após instalar o Termux, é recomendado que inicie pela primeira vez, para que seja aceito as permissões mínimas.
 
-[print da tela do termux iniciado pela primeira vez]
+3. Em seguida, abra o F-Droid novamente, clique na lupa verde, e pesquise: Termux API, e instale também.
 
-4. Em seguida, abra o F-Droid novamente, clique na lupa verde, e pesquise: Termux API, e instale também.
+![IMG_20250804_211503](https://github.com/user-attachments/assets/88f312b5-7f90-4f5d-aece-645057b49a9f)
 
-[print da tela do termux api]
 
 Desabilite as opções recomendadas e feche.
 
-5. Nesse momento, inicie o Termux e atualize as listas de pacotes com `pkg update`, e atualize os pacotes com `pkg upgrade`.
+4. Nesse momento, inicie o Termux e atualize as listas de pacotes com `pkg update`, e atualize os pacotes com `pkg upgrade`.
 
 Agora seu Termux está atualiza e pronto para utilizar as ferramentas necessárias para o mapeamento utilizando as funcionalidade do Android com o Termux:API. Para testar se realmente o Termux:API está instalado e funcionando corretamente, habilite o wifi e a localização do seu smartphone e rode o comando no terminal:
 
