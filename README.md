@@ -63,3 +63,9 @@ A saída será algo como:
 
 ### Automatizando o escaneamento 
 
+Após os testes serem concluidos e obtivemos os resultados, devemos automatizar o escaneamneto. Nesse caso, será necessário utilizar a linguagem do shell chamada de linguagem bash script.
+
+O script que desenvolvi para que esse escaneamento seja automatizado de forma que seja coletados todas as informações necessárias para a análise posterior. Sendo elas: A localização, as informações dos APs e a data e hora do escaneamento.
+
+
+
