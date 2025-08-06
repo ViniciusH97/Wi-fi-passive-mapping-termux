@@ -68,4 +68,6 @@ Após os testes serem concluidos e obtivemos os resultados, devemos automatizar 
 O script que desenvolvi para que esse escaneamento seja automatizado de forma que seja coletados todas as informações necessárias para a análise posterior. Sendo elas: A localização, as informações dos APs e a data e hora do escaneamento.
 
 
+![IMG_20250804_212034](https://github.com/user-attachments/assets/d2b3cdbf-062c-4294-8777-0b6bcb79b323)
+
 
