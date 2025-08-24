@@ -34,7 +34,7 @@ Desabilite as opções recomendadas e feche.
 4. Abra o Termux e instale o pacote Termux:API, digite o comando abaixo:
 
 ```bash
-~ $pkg install termux-api
+~ $ pkg install termux-api
 ```
 
 5. Nesse momento, inicie o Termux e atualize as listas de pacotes com `pkg update`, e atualize os pacotes com `pkg upgrade`.
@@ -42,7 +42,7 @@ Desabilite as opções recomendadas e feche.
 Agora seu Termux está atualizado e pronto para utilizar as ferramentas necessárias para o mapeamento utilizando as funcionalidade do Android com o Termux:API. Para testar se realmente o Termux:API está instalado e funcionando corretamente, habilite o wifi e a localização do seu smartphone e rode o comando no terminal:
 
 ```bash
-~ $termux-location
+~ $ termux-location
 ```
 
 > OBS: Não esqueça de habilitar o GPS e o wi-fi do smartphone para realziar os testes
@@ -54,7 +54,7 @@ A saída será algo parecido com isso:
 Se aparecer as coordenadas como na imagem acima, significa que o Termux:API funcionou corretamente.E agora poderá testar o comando para escaneamento dos APs:
 
 ```bash
-~ $termux-wifi-scaninfo
+~ $ termux-wifi-scaninfo
 ```
 
 A saída será algo como:
